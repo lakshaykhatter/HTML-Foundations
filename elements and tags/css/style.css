@@ -5,7 +5,7 @@ body {
 }
 
 p {
-    color: #FF3300;
+    color: white;
 }
 
 h1 {
@@ -22,4 +22,20 @@ span {
     color: yellow;
     font-size: 40px;
 
+}
+
+a {
+    color: white;
+}
+
+#top-section {
+    background: blue;
+}
+
+.intro {
+    font-size: 70px;
+}
+
+.highlight {
+    background: blue;
 }
