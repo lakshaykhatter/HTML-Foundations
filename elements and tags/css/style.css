@@ -1,41 +1,19 @@
-body {
-    background-color: #000;
-    color: white;
-    font-family: sans-serif;
-}
 
-p {
-    color: white;
-}
+.box {
+    background:pink;
+    width: 300px;
+    margin: 100px;
 
-h1 {
-    font-size: 70px;
-    color: pink;
-}
+    
+    border-left-width: 5px;
+    border-left-color: red;
+    border-left-style: solid;
 
-div {
-    background: pink;
-    width: 500px;
-}
+    border-right-width: 5px;
+    border-right-color: green;
+    border-right-style: solid;
 
-span {
-    color: yellow;
-    font-size: 40px;
+    padding:100px;
 
 }
 
-a {
-    color: white;
-}
-
-#top-section {
-    background: blue;
-}
-
-.intro {
-    font-size: 70px;
-}
-
-.highlight {
-    background: blue;
-}
