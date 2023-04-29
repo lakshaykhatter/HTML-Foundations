@@ -3,17 +3,11 @@
     background:pink;
     width: 300px;
     margin: 100px;
-
-    
-    border-left-width: 5px;
-    border-left-color: red;
-    border-left-style: solid;
-
-    border-right-width: 5px;
-    border-right-color: green;
-    border-right-style: solid;
-
     padding:100px;
-
+    background-image: url(../images/lakshay.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
