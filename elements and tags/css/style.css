@@ -1,0 +1,14 @@
+body {
+    background-color: #000;
+    color: white;
+    font-family: sans-serif;
+}
+
+p {
+    color: #FF3300;
+}
+
+h1 {
+    font-size: 70px;
+    color: pink;
+}
