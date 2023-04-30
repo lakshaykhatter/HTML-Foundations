@@ -1,13 +1,38 @@
 
 .box {
     background:pink;
-    width: 300px;
-    margin: 100px;
-    padding:100px;
-    background-image: url(../images/lakshay.jpg);
-    
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+
+    margin-bottom: 0px;
+
 }
 
+p {
+    margin-bottom: 0px;
+    line-height: 40px;
+    font-size: 40px;
+    font-weight: bold;
+
+
+    text-align: left;
+}
+
+a {
+    color:black;
+}
+
+
+
+a:visited {
+    color:purple;
+}
+
+a:hover {
+    color:yellow;
+    font-size:50px;
+}
+
+a:active {
+    color:blue;
+}
