@@ -18,21 +18,27 @@ p {
     text-align: left;
 }
 
-a {
-    color:black;
+
+p, h1 {
+    color:green;
 }
 
 
-
-a:visited {
-    color:purple;
+.body-text {
+    background-color: #79acd1;
+    padding: 50px;
+    
 }
 
-a:hover {
+.body-text p {
+    color: white;
+}
+
+.body-text a {
+    color:green;
+}
+
+.important-link,
+.body-text .important-link {
     color:yellow;
-    font-size:50px;
-}
-
-a:active {
-    color:blue;
 }
