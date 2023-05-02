@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+
+a {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  font-size: 25px;  
+  text-align: left;
+}
+
+img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
